@@ -1,0 +1,30 @@
+{
+    "name": "treinetic/clearpay-php-sdk",
+    "description": "this library will support to make a payment through the clearpay",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["payment","treinetic","clearpay","sri lanka","clearpay payment gateway"],
+    "authors": [
+        {
+            "name": "Kavindu Chathuranga",
+            "email": "treinetic.macbook.004@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Anton Dias",
+            "email": "antondias4@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Clearpay\\": "src/"
+        }
+    },
+
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*",
+        "php": ">=5.3.0"
+    }
+}

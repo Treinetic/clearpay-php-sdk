@@ -1,20 +1,60 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introduction
+
+Gateway to
+Success
+Boost Your Revenue by Accepting
+Payments Online.
+
+Get Started to Accept Payments Quickly, and Securely
+It is possible to accomplish everything in this world as long as you know how to get about it.
+
+Are you ready to do well? Our comprehensive payment solution begins now.
+For more information: [clearpay.lk](https://clearpay.lk/)
+
+![Issues](https://img.shields.io/github/issues/Treinetic/clearpay-php-sdk.svg)
+[![Software License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Stars](https://img.shields.io/github/stars/Treinetic/clearpay-php-sdk.svg)
+![Forks](https://img.shields.io/github/forks/Treinetic/clearpay-php-sdk.svg)
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## Requirements
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+php: >=7.0
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## Install
+
+The package can be installed via composer:
+
+``` bash
+$ composer require treinetic/clearpay-php-sdk
+```
+
+## Usage
+
+### Very Basics
+
+Using Php
+![code.gif](..%2F..%2FDownloads%2Fcode.gif)
+
+Using Javascript
+![code.gif](https://clearpay.lk/wp-content/uploads/2021/10/dev_friendly-1.png)
+
+## Change log
+
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Credits
+
+- [Imal Hasaranga Perera](https://github.com/imalhasaranga)
+- [Kavindu Chathuranga](https://github.com/KaviiChathuranga)
+- [Anton Dias](https://github.com/antontreinetic)
+- [All Contributors](../../contributors)
+
+## License
+
+The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.

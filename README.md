@@ -35,7 +35,7 @@ $ composer require treinetic/clearpay-php-sdk
 ### Very Basics
 
 Using Php
-<img alt="code.gif" src="https://s3.ap-southeast-1.amazonaws.com/cdn.clearpay.lk/code.gif"/>
+<img alt="code.png" src="https://s3.ap-southeast-1.amazonaws.com/cdn.clearpay.lk/clearpay-php-code.png"/>
 
 Using Javascript
 <img alt="phpcode.png" src="https://s3.ap-southeast-1.amazonaws.com/cdn.clearpay.lk/clearpay-js-code.png"/>

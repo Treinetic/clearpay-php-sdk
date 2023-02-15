@@ -35,10 +35,10 @@ $ composer require treinetic/clearpay-php-sdk
 ### Very Basics
 
 Using Php
-![code.gif](..%2F..%2FDownloads%2Fcode.gif)
+![code.gif](https://s3.ap-southeast-1.amazonaws.com/cdn.clearpay.lk/code.gif)
 
 Using Javascript
-![code.gif](https://clearpay.lk/wp-content/uploads/2021/10/dev_friendly-1.png)
+![code.gif](https://s3.ap-southeast-1.amazonaws.com/cdn.clearpay.lk/clearpay-js-code.png)
 
 ## Change log
 

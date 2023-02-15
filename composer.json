@@ -24,14 +24,20 @@
       "role": "Developer"
     }
   ],
+  "require-dev": {
+    "phpunit/phpunit": "^9.0"
+  },
   "autoload": {
     "psr-4": {
-      "Clearpay\\": "src/"
+      "Treinetic\\Clearpay\\": "src/"
     }
   },
   "require": {
     "ext-curl": "*",
     "ext-json": "*",
     "php": ">=7.0"
+  },
+  "scripts": {
+    "test": "phpunit"
   }
 }
